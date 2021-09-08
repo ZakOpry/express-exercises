@@ -1,4 +1,5 @@
 # Instructions
+- Run `npm i ` inside each folder before you do anything.
 
 ## Clean Routes
 - The following code is missing essential pieces that will prevent you from having a functional express app.  Your job is to find the pieces that are missing and insert the correct syntax.
